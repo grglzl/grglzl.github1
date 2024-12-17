@@ -8,7 +8,7 @@
 body {
     color: #fff;
     line-height: 1.6;
-    background-image: url(g.jpg);
+    background-image: url(h.jpg);
     background-size: 100%;
 }
 .logo{
@@ -67,6 +67,7 @@ header ul li a:hover {
 
 .hero .content h1 {
     font-size: 3.5rem;
+    color: rgb(221, 64, 187);
 }
 
 .hero .content .highlight {
@@ -75,6 +76,7 @@ header ul li a:hover {
 
 .hero p {
     margin: 10px 0;
+    color: rgb(39, 194, 221);
 }
 
 .hero .social-links a {
